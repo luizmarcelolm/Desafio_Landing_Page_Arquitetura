@@ -7,6 +7,7 @@
 * Ferramentas utilizadas foram:
 * HTML
 * CSS
+* JS
 * NETLIFY
 
 
