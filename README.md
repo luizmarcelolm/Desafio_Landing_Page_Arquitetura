@@ -11,5 +11,23 @@
 * FIGMA
 * NETLIFY
 
+# Neste trecho de código foi criado o menu superior
+![image](https://github.com/luizmarcelolm/Desafio_Landing_Page_Arquitetura/assets/109484017/4443e142-1681-448f-a971-8629e9ab3c46)
+![image](https://github.com/luizmarcelolm/Desafio_Landing_Page_Arquitetura/assets/109484017/9064294c-076d-4e02-81a8-3ebb3ca5641f)
+
+# Nessa parte foi criado o menu de informações
+![image](https://github.com/luizmarcelolm/Desafio_Landing_Page_Arquitetura/assets/109484017/844c93ff-0cfb-469b-8826-f0ccfeeb6d9b)
+![image](https://github.com/luizmarcelolm/Desafio_Landing_Page_Arquitetura/assets/109484017/f4993af4-94a9-4db4-8046-23867d9055c6)
+
+# Nessa parte foi criado o menu com a história da empresa
+![image](https://github.com/luizmarcelolm/Desafio_Landing_Page_Arquitetura/assets/109484017/36a33e4a-99b1-4101-bc1a-b45032b8fea3)
+
+![image](https://github.com/luizmarcelolm/Desafio_Landing_Page_Arquitetura/assets/109484017/d89acd5e-88f5-45da-918e-4747ca130ded)
+
+
+
+
+
+
 
 
