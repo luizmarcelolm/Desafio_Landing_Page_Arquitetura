@@ -8,6 +8,7 @@
 * HTML
 * CSS
 * JS
+* FIGMA
 * NETLIFY
 
 
